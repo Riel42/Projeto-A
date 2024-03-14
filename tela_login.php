@@ -21,7 +21,7 @@
                 <label for="senha">Senha: </label><br>
                 <input type="password" name="passwd" id="passwd"><br><br>
                 <input type="submit" value="Acessar!"><br>
-                <label for="mensage"><a href="#">Cadastre-se aqui :3</a></label>
+                <label for="mensage"><a href="#">Sem login? Cadastre-se aqui :3</a></label>
             </form>
         </header>
     </section>

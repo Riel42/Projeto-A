@@ -1,0 +1,66 @@
+#cxprincipal{
+    width: 1000px;
+    height: 800px;
+    border: 1px solid black;
+    position: relative;
+    margin: auto;
+}
+
+#banner{
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+}
+
+#cxamigo{
+    width: 333px;
+    height: 333px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 200px;
+}
+
+#cxcomercio{
+    width: 333px;
+    height: 333px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 333px;
+}
+
+#cxusuario{
+    width: 333px;
+    height: 333px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 666px;
+}
+
+#cxconsultaamigo{
+    width: 333px;
+    height: 333px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 535px;
+}
+
+#cxconsultacomercio{
+    width: 333px;
+    height: 333px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 535px;
+    margin-left: 333px;
+}
+
+#cxconsultauser{
+    width: 333px;
+    height: 333px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 535px;
+    margin-left: 666px;
+}
