@@ -1,0 +1,36 @@
+- PHP
+
+create database bdagenda2000;
+use bdagenda2000;
+
+create table tbusuario(
+ 	cod int primary key auto_increment,
+	nome varchar(90),
+	email varchar(90),
+	senha varchar(50)
+);
+
+create table tbcomercial(
+ 	cod int primary key auto_increment,
+	nome varchar(90),
+	comercio varchar(90),
+	telefone varchar(50),
+	whatsapp varchar(50)
+);
+
+
+create table tbamigos(
+ 	cod int primary key auto_increment,
+	amigo varchar(90),
+	email varchar(90),
+	telefone varchar(16),
+	whatsapp varchar(20),
+	datanasc date
+);
+
+Telas do sistema
+
+Homepage: index.php
+Tela de login
+Tela de menu
+Tela de cadastro de usuario

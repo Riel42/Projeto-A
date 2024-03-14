@@ -1,0 +1,40 @@
+a{
+    color: rgb(235, 76, 76);
+    font-style: none;
+    text-decoration: none;
+}
+
+h1{
+    color: blueviolet;
+}
+
+#cxprincipal{
+    width: 400px;
+    height: 500px;
+    background-color: pink;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#cxcadeado{
+    width: 250px;
+    height: 280px;
+    background-color: purple;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    border-radius: 5px;
+}
+
+#cxlogin{
+    width: 250px;
+    height: 150px;
+    background-color: purple;
+    color: aliceblue;
+    position: absolute;
+    bottom: 25px;
+    left: 75px;
+    border-radius: 5px;
+}
